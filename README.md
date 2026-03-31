@@ -1,5 +1,5 @@
 # Drum-kit project
 
-[Screenshot] Screenshot.jpg
+![Screenshot](Screenshot.jpg)
 
-Live Demo (https://rinki88.github.io/Drum-kit/)
+[Live Demo](https://rinki88.github.io/Drum-kit/)
