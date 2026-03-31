@@ -1,3 +1,5 @@
 # Drum-kit project
 
-[Screenshot] Screenshot_20260331-040159_DuckDuckGo.jpg
+[Screenshot] Screenshot.jpg
+
+Live Demo (https://rinki88.github.io/Drum-kit/)
